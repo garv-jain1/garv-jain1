@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m @garv-jain1
 - 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning Reactjs 
-- 💞️ I’m looking to collaborate on frontend and opensource projects
+- 💞️ I’m looking to collaborate on full-stack and opensource projects
 - 📫 You can reach me at garvjainpb@gmail.com
 
 <!---
